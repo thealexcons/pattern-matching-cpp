@@ -2,8 +2,6 @@
 
 A straightforward implementation of a high-level pattern matching API using C++17 features such as template deduction guides, fold expressions and `std::variant` / `std::visit`.
 
-Full article on my [blog post]().
-
 ### Example usage
 
 ```c++
